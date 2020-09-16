@@ -1,0 +1,1 @@
+{"version":3,"sources":["scripts/checked.js"],"names":["check","document","getElementById","checked"],"mappings":";AAAA,aACA,SAASA,IACRC,SAASC,eAAe,gBAAgBC,SAAU","file":"checked.6a3785e3.js","sourceRoot":"../src","sourcesContent":["\"use strict\"\nfunction check () {\n document.getElementById('menu__toggle').checked = false;\n}\n"]}
